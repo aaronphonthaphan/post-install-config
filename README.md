@@ -65,7 +65,7 @@ Now name the new role "Supreme Admin" and select all permissions for Tickets, Ta
 <img src="https://i.imgur.com/fujykeu.png"/>
 </p>
 <p>
-then go to the departments panel and add a new department.
+Then go to the departments panel and add a new department.
 </p>
 <br />
 
