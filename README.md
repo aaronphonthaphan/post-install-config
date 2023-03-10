@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Visual Walkthrough</h2>
 
 <p>
-<img src="https://i.imgur.com/970aBAE.jpg"/>
+<img src="https://i.imgur.com/AdfEJoW.png"/>
 </p>
 <p>
 First log into osTicket with the credentials that we set for the admin user in the previous tutorial.
@@ -38,7 +38,7 @@ First log into osTicket with the credentials that we set for the admin user in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/smoRDS8.png"/>
+<img src="https://i.imgur.com/eonOVDe.png"/>
 </p>
 <p>
 Then go to the admin panel, that button will switch from "Admin Panel" to "Agent Panel" when you get to the admin panel.
@@ -54,7 +54,7 @@ Then go to Agents -> Roles -> Add New Role
 <br />
 
 <p>
-<img src="https://i.imgur.com/dKzlDpy.png"/>
+<img src="https://i.imgur.com/oSvXKOT.png"/>
 </p>
 <p>
 Now name the new role "Supreme Admin" and select all permissions for Tickets, Tasks, and Knowledgebase, then click save.
@@ -62,7 +62,7 @@ Now name the new role "Supreme Admin" and select all permissions for Tickets, Ta
 <br />
 
 <p>
-<img src="https://i.imgur.com/fujykeu.png"/>
+<img src="https://i.imgur.com/TwCt19I.png"/>
 </p>
 <p>
 Then go to the departments panel and add a new department.
@@ -70,7 +70,7 @@ Then go to the departments panel and add a new department.
 <br />
 
 <p>
-<img src="https://i.imgur.com/awbVYtb.png"/>
+<img src="https://i.imgur.com/vMk16Dy.png"/>
 </p>
 <p>
 Name it "SysAdmins" and hit create.
@@ -78,7 +78,7 @@ Name it "SysAdmins" and hit create.
 <br />
 
 <p>
-<img src="https://i.imgur.com/px2oFmM.png"/>
+<img src="https://i.imgur.com/LXccVi8.png"/>
 </p>
 <p>
 Now go to the Teams panel and hit add new team, then name it "Level II Support" and create team.
@@ -86,15 +86,7 @@ Now go to the Teams panel and hit add new team, then name it "Level II Support" 
 <br />
 
 <p>
-<img src="https://i.imgur.com/55PgdlN.png"/>
-</p>
-<p>
-Now go to Settings -> Users -> * Settings and make sure the authentication settings make the screenshot above.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/zgW8RYK.png"/>
+<img src="https://i.imgur.com/G8EBWC9.png"/>
 </p>
 <p>
 Now go into the agents panel and add new agent.
@@ -102,8 +94,7 @@ Now go into the agents panel and add new agent.
 <br />
 
 <p>
-<img src="https://i.imgur.com/VbdAyYo.png"/>
-<img src="https://i.imgur.com/bOpYXec.png"/>
+<img src="https://i.imgur.com/Pjxbwsr.png"/>
 </p>
 <p>
 Now add the following accounts:
