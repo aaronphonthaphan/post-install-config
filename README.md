@@ -100,7 +100,7 @@ Now go into the agents panel and add new agent.
 Now add the following accounts:
 
 - Name:	Jane Doe
-- Email Address: jane.doe@osticket.com
+- Email Address: jane.doe@gmail.com
 - Username: jane.doe
 - Set the password to "Password1" (you might need to uncheck that send agent password reset email box)
 - Go to Access and set the department to SysAdmins and select Supreme Admin for the role.
@@ -111,7 +111,7 @@ Then repeat those same exact steps for John Doe.
 <br />
 
 <p>
-<img src="https://i.imgur.com/OOQdVmW.png"/>
+<img src="https://i.imgur.com/LlDTjVt.png"/>
 </p>
 <p>
 Then go to Agent panel -> Users -> Add User
@@ -119,21 +119,21 @@ Then go to Agent panel -> Users -> Add User
 <br />
 
 <p>
-<img src="https://i.imgur.com/6uBqz01.png"/>
+<img src="https://i.imgur.com/js6FUwk.png"/>
 </p>
 <p>
 Then add the following users:
  
-- Email Address: karen@osticket.com
+- Email Address: karen@gmail.com
 - Full Name: Karen
   
-- Email Address: ken@osticket.com
+- Email Address: ken@gmail.com
 - Full Name: Ken
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/mdD3pzb.png"/>
+<img src="https://i.imgur.com/sz0QeCf.png"/>
 </p>
 <p>
 Then go to Admin Panel -> Manage -> SLA -> Add New SLA Plan
@@ -141,7 +141,7 @@ Then go to Admin Panel -> Manage -> SLA -> Add New SLA Plan
 <br />
 
 <p>
-<img src="https://i.imgur.com/AFDwYsq.png"/>
+<img src="https://i.imgur.com/xIUomYz.png"/>
 </p>
 <p>
 Now add the following SLAs
@@ -153,7 +153,7 @@ Now add the following SLAs
 <br />
 
 <p>
-<img src="https://i.imgur.com/YL0FxCx.png"/>
+<img src="https://i.imgur.com/k8xFzqx.png"/>
 </p>
 <p>
 Now go to "Help Topics" and add the following help topics:
